@@ -46,9 +46,9 @@ return [
              'mysql' => array(
              'driver'    => 'mysql',
              'host'      => 'localhost',
-             'database'  => 'aurkofou_drhaasansir',
-             'username'  => 'aurkofou_drhaasansir',
-             'password'  => '=cxFkgODOLHa',
+             'database'  => 'rased',
+             'username'  => 'root',
+             'password'  => '',
              'charset'   => 'utf8',
              'collation' => 'utf8_unicode_ci',
              'prefix'    => '',
